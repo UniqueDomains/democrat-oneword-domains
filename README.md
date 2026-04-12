@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .democrat one-word domains from Un
 
 **Public extract:** 9,801 rows · **Live catalog:** 9,801 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/democrat`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| easy.democrat       | available | $9.99     | $43.99        | 128            | 68     | 4      | name.com                                    |
-| the.democrat        | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                   |
-| zero.democrat       | premium   | $9.99     | $43.99        | 112            | 53     | 4      | name.com                                    |
-| cloud.democrat      | available | $41.48    | —             | 70             | 59     | 5      | namecheap                                   |
-| smart.democrat      | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
-| one.democrat        | premium   | $500      | $500          | 132            | 51     | 3      | name.com                                    |
-| business.democrat   | available | $41.48    | —             | 100            | 53     | 8      | namecheap                                   |
-| bot.democrat        | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC                                 |
-| abc.democrat        | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
-| alpha.democrat      | available | $9.99     | $43.99        | 90             | 53     | 5      | name.com                                    |
-| world.democrat      | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC                                |
-| green.democrat      | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
-| fast.democrat       | available | $9.99     | $43.99        | 82             | 53     | 4      | name.com                                    |
-| simple.democrat     | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| about.democrat      | premium   | $500      | $500          | 94             | 38     | 5      | name.com                                    |
-| art.democrat        | available | $41.48    | —             | 90             | 52     | 3      | namecheap                                   |
-| token.democrat      | resell    | —         | —             | 114            | 46     | 5      | NameCheap, Inc.                             |
-| healthcare.democrat | premium   | $260      | $260          | 76             | 33     | 10     | namecheap                                   |
-| moon.democrat       | available | $9.99     | —             | 70             | 52     | 4      | name.com                                    |
-| house.democrat      | resell    | —         | —             | 84             | 40     | 5      | GoDaddy.com, LLC                            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| easy.democrat     | available | $9.99     | $43.99        | 128            | 68     | 4      | name.com                                    |
+| the.democrat      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                   |
+| zero.democrat     | premium   | $9.99     | $43.99        | 112            | 54     | 4      | name.com                                    |
+| cloud.democrat    | available | $41.48    | —             | 70             | 59     | 5      | namecheap                                   |
+| smart.democrat    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
+| one.democrat      | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                    |
+| alpha.democrat    | available | $9.99     | $43.99        | 90             | 54     | 5      | name.com                                    |
+| bot.democrat      | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC                                 |
+| abc.democrat      | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
+| business.democrat | available | $41.48    | —             | 100            | 53     | 8      | namecheap                                   |
+| world.democrat    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC                                |
+| green.democrat    | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
+| fast.democrat     | available | $9.99     | $43.99        | 82             | 53     | 4      | name.com                                    |
+| simple.democrat   | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| about.democrat    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                    |
+| art.democrat      | available | $41.48    | —             | 90             | 52     | 3      | namecheap                                   |
+| token.democrat    | resell    | —         | —             | 114            | 46     | 5      | NameCheap, Inc.                             |
+| america.democrat  | premium   | $123.75   | —             | 72             | 33     | 7      | name.com                                    |
+| moon.democrat     | available | $9.99     | —             | 70             | 52     | 4      | name.com                                    |
+| house.democrat    | resell    | —         | —             | 84             | 40     | 5      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
