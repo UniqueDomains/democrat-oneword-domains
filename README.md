@@ -66,7 +66,7 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | easy.democrat     | available | $9.99     | $43.99        | 128            | 68     | 4      | name.com                                    |
 | the.democrat      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                   |
-| zero.democrat     | premium   | $9.99     | $43.99        | 112            | 54     | 4      | name.com                                    |
+| zero.democrat     | premium   | $9.99     | $43.99        | 112            | 53     | 4      | name.com                                    |
 | cloud.democrat    | available | $41.48    | —             | 70             | 59     | 5      | namecheap                                   |
 | smart.democrat    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
 | one.democrat      | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                    |
