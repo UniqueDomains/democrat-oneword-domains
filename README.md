@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .democrat one-word domains from Un
 
 **Public extract:** 9,801 rows · **Live catalog:** 9,801 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/democrat`  
 **Best for:** founders, investors, studios
 
@@ -70,10 +70,10 @@ print(df.head())
 | cloud.democrat    | available | $41.48    | —             | 70             | 59     | 5      | namecheap                                   |
 | smart.democrat    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
 | one.democrat      | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                    |
-| alpha.democrat    | available | $9.99     | $43.99        | 90             | 54     | 5      | name.com                                    |
+| business.democrat | available | $41.48    | —             | 100            | 53     | 8      | namecheap                                   |
 | bot.democrat      | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC                                 |
 | abc.democrat      | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
-| business.democrat | available | $41.48    | —             | 100            | 53     | 8      | namecheap                                   |
+| alpha.democrat    | available | $9.99     | $43.99        | 90             | 53     | 5      | name.com                                    |
 | world.democrat    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC                                |
 | green.democrat    | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
 | fast.democrat     | available | $9.99     | $43.99        | 82             | 53     | 4      | name.com                                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
