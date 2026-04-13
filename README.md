@@ -75,11 +75,11 @@ print(df.head())
 | abc.democrat      | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
 | alpha.democrat    | available | $9.99     | $43.99        | 90             | 53     | 5      | name.com                                    |
 | world.democrat    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC                                |
-| green.democrat    | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
-| fast.democrat     | available | $9.99     | $43.99        | 82             | 53     | 4      | name.com                                    |
+| green.democrat    | premium   | $39       | $39           | 108            | 44     | 5      | namecheap                                   |
+| art.democrat      | available | $41.48    | —             | 90             | 52     | 3      | namecheap                                   |
 | simple.democrat   | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | about.democrat    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                    |
-| art.democrat      | available | $41.48    | —             | 90             | 52     | 3      | namecheap                                   |
+| fast.democrat     | available | $9.99     | $43.99        | 82             | 52     | 4      | name.com                                    |
 | token.democrat    | resell    | —         | —             | 114            | 46     | 5      | NameCheap, Inc.                             |
 | america.democrat  | premium   | $123.75   | —             | 72             | 33     | 7      | name.com                                    |
 | moon.democrat     | available | $9.99     | —             | 70             | 52     | 4      | name.com                                    |
