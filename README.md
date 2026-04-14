@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .democrat one-word domains from Un
 
 **Public extract:** 9,801 rows · **Live catalog:** 9,801 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/democrat`  
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | world.democrat    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC                                |
 | green.democrat    | premium   | $39       | $39           | 108            | 44     | 5      | namecheap                                   |
 | art.democrat      | available | $41.48    | —             | 90             | 52     | 3      | namecheap                                   |
-| simple.democrat   | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| simple.democrat   | resell    | —         | —             | 128            | 49     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 | about.democrat    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                    |
 | fast.democrat     | available | $9.99     | $43.99        | 82             | 52     | 4      | name.com                                    |
 | token.democrat    | resell    | —         | —             | 114            | 46     | 5      | NameCheap, Inc.                             |
 | america.democrat  | premium   | $123.75   | —             | 72             | 33     | 7      | name.com                                    |
 | moon.democrat     | available | $9.99     | —             | 70             | 52     | 4      | name.com                                    |
-| house.democrat    | resell    | —         | —             | 84             | 40     | 5      | GoDaddy.com, LLC                            |
+| house.democrat    | resell    | —         | —             | 84             | 41     | 5      | GoDaddy.com, LLC                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
