@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .democrat one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,777 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,777 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,777 domains · **Median ask:** $14.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/democrat`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain                      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.democrat               | available | $41.48    | —             | 80             | 5      | 5      | namecheap |
+| girls.democrat              | available | $9.99     | —             | 83             | 23     | 5      | name.com  |
+| WiFi.democrat               | available | $41.48    | —             | 83             | 37     | 5      | namecheap |
+| ladies.democrat             | available | $9.99     | —             | 80             | 17     | 6      | name.com  |
+| getup.democrat              | available | $9.99     | —             | 82             | 14     | 6      | name.com  |
+| popup.democrat              | available | $9.99     | —             | 84             | 29     | 6      | name.com  |
+| dogsit.democrat             | available | $9.99     | —             | 96             | 2      | 6      | name.com  |
+| playin.democrat             | available | $9.99     | —             | 80             | 10     | 7      | name.com  |
+| QandA.democrat              | available | $41.48    | —             | 80             | 10     | 7      | namecheap |
+| toneup.democrat             | available | $9.99     | —             | 80             | 5      | 7      | name.com  |
+| stirup.democrat             | available | $9.99     | —             | 82             | 3      | 7      | name.com  |
 | robots.democrat             | available | $9.99     | —             | 62             | 47     | 6      | name.com  |
 | partners.democrat           | premium   | $500      | —             | 61             | 32     | 8      | name.com  |
 | Ryan.democrat               | available | $41.48    | —             | 60             | 44     | 4      | namecheap |
 | Obamacare.democrat          | premium   | $138.60   | $138.60       | 66             | 8      | 10     | namecheap |
-| WiFi.democrat               | available | $41.48    | —             | 83             | 37     | 5      | namecheap |
 | donkeys.democrat            | premium   | $242      | $242          | 46             | 5      | 7      | namesilo  |
 | tickets.democrat            | available | $9.99     | —             | 64             | 34     | 7      | name.com  |
 | DistrictofColumbia.democrat | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
 | spectra.democrat            | available | $9.99     | —             | 62             | 34     | 7      | name.com  |
 | letsgo.democrat             | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
-| solutions.democrat          | available | $9.99     | —             | 56             | 31     | 9      | name.com  |
-| videos.democrat             | available | $9.99     | —             | 52             | 30     | 6      | name.com  |
-| popup.democrat              | available | $9.99     | —             | 84             | 29     | 6      | name.com  |
-| heroes.democrat             | available | $9.99     | —             | 68             | 29     | 6      | name.com  |
-| quotes.democrat             | available | $9.99     | —             | 58             | 29     | 6      | name.com  |
-| dogs.democrat               | available | $9.99     | —             | 76             | 28     | 4      | name.com  |
-| commonground.democrat       | available | $9.99     | —             | 74             | 28     | 13     | name.com  |
-| forms.democrat              | available | $9.99     | —             | 54             | 28     | 5      | name.com  |
-| sites.democrat              | available | $9.99     | —             | 53             | 26     | 5      | name.com  |
-| destination.democrat        | available | $9.99     | —             | 90             | 25     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,777 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,777 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .democrat domains. The extension is highly specific, so the main question is not just whether the word is strong on its own, but whether it still reads naturally with .democrat attached. Generic words such as tips.democrat, homes.democrat, ladies.democrat, or finals.democrat can be memorable, but extension fit matters more here than in mainstream TLDs. With a median ask of 14.22, upfront pricing appears modest, yet low entry price alone does not make a name strong. When comparing these domains, prioritize clear meaning, easy recall, clean spelling, and whether the combined phrase feels credible, intentional, and useful to the intended audience.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that read naturally with .democrat
+- Check if the full phrase is clear, not awkward or forced
+- Low ask can help, but extension fit still drives quality
+- Avoid words with obvious brand or trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
