@@ -65,6 +65,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 05566729-6cda-4765-9b1b-cb8ab7ad5f49,demonstrations.democrat,available,9.99,,48,4,14,name.com,,
 0567d222-f14f-4354-a2df-0ab266bde4e2,foes.democrat,available,9.99,,46,6,4,name.com,,
 057acbb5-888f-42a7-81b3-baea998332a0,havetheadvantage.democrat,available,9.99,,46,0,18,name.com,,
+057f0c2b-bdc8-4cee-965c-63a66277dcdd,you.democrat,premium,,,74,51,3,,,
 05818134-3527-4a99-a610-3f356b958dd9,bottles.democrat,available,9.99,,62,12,7,name.com,,
 05834c67-c6cf-4eed-af14-670d154cb95f,redial.democrat,available,9.99,,71,6,6,name.com,,
 05910ff9-c8a2-468f-8dd9-45dbf4cd6682,showin.democrat,available,9.99,,72,4,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53423977-cb32-4cb1-85a4-346d1a83f8f7,comeondown.democrat,available,9.99,,76,1,12,name.com,,
 53608f46-722c-44b2-9bec-6ffa5f96b986,thenandthere.democrat,available,9.99,,54,2,14,name.com,,
 5370bd47-ef54-48a7-b040-25d59a85b765,photographers.democrat,available,9.99,,47,10,13,name.com,,
-5377a9d3-7013-4471-a46a-a19b47ae0c55,alcoholbyvolume.democrat,available,9.99,,58,1,17,name.com,,

@@ -83,7 +83,7 @@ print(df.head())
 | tickets.democrat            | available | $9.99     | —             | 64             | 34     | 7      | name.com  |
 | DistrictofColumbia.democrat | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
 | spectra.democrat            | available | $9.99     | —             | 62             | 34     | 7      | name.com  |
-| letsgo.democrat             | available | $9.99     | —             | 57             | 31     | 7      | name.com  |
+| you.democrat                | premium   | —         | —             | 74             | 51     | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
