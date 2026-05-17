@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .democrat one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,779 domains · **Median ask:** $14.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/democrat`  
 **Best for:** founders, investors, studios
 
@@ -68,8 +68,8 @@ print(df.head())
 | girls.democrat              | available | $9.99     | —             | 83             | 23     | 5      | name.com  |
 | WiFi.democrat               | available | $41.48    | —             | 83             | 37     | 5      | namecheap |
 | ladies.democrat             | available | $9.99     | —             | 80             | 17     | 6      | name.com  |
-| getup.democrat              | available | $9.99     | —             | 82             | 14     | 6      | name.com  |
-| popup.democrat              | available | $9.99     | —             | 84             | 29     | 6      | name.com  |
+| getup.democrat              | available | $9.99     | —             | 82             | 15     | 6      | name.com  |
+| popup.democrat              | available | $9.99     | —             | 84             | 28     | 6      | name.com  |
 | dogsit.democrat             | available | $9.99     | —             | 96             | 2      | 6      | name.com  |
 | playin.democrat             | available | $9.99     | —             | 80             | 10     | 7      | name.com  |
 | QandA.democrat              | available | $41.48    | —             | 80             | 10     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
