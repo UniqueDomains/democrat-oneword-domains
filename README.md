@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .democrat one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,779 domains · **Median ask:** $14.22 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/democrat`  
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | toneup.democrat             | available | $9.99     | —             | 80             | 5      | 7      | name.com  |
 | stirup.democrat             | available | $9.99     | —             | 82             | 3      | 7      | name.com  |
 | robots.democrat             | available | $9.99     | —             | 62             | 47     | 6      | name.com  |
-| partners.democrat           | premium   | $500      | —             | 61             | 32     | 8      | name.com  |
+| partners.democrat           | premium   | $500      | —             | 61             | 31     | 8      | name.com  |
 | Ryan.democrat               | available | $41.48    | —             | 60             | 44     | 4      | namecheap |
-| Obamacare.democrat          | premium   | $138.60   | $138.60       | 66             | 8      | 10     | namecheap |
+| Obamacare.democrat          | premium   | $138.60   | $138.60       | 66             | 7      | 10     | namecheap |
 | donkeys.democrat            | premium   | $242      | $242          | 46             | 5      | 7      | namesilo  |
 | tickets.democrat            | available | $9.99     | —             | 64             | 34     | 7      | name.com  |
 | DistrictofColumbia.democrat | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
