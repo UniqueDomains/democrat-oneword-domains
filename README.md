@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .democrat one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,422 domains · **Median ask:** $10.62 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/democrat`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| great.democrat  | available | $9.99     | —             | high           | low    | 5      | name.com     |
 | aid.democrat    | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 | world.democrat  | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC |
 | buy.democrat    | premium   | $500      | $500          | medium         | medium | 3      | name.com     |
@@ -83,7 +84,6 @@ print(df.head())
 | young.democrat  | premium   | $242      | $242          | high           | low    | 5      | namesilo     |
 | con.democrat    | available | $9.99     | —             | high           | low    | 3      | name.com     |
 | hawaii.democrat | premium   | $500      | —             | high           | low    | 6      | name.com     |
-| gee.democrat    | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
