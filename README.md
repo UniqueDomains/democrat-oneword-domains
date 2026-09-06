@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .democrat one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,907 domains · **Median ask:** $10.29 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/democrat`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| great.democrat  | available | $9.99     | —             | high           | low    | 5      | name.com     |
-| hello.democrat  | premium   | $118.80   | $118.80       | high           | high   | 5      | namesilo     |
 | aid.democrat    | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 | world.democrat  | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC |
 | buy.democrat    | premium   | $512      | $512          | medium         | medium | 3      | namesilo     |
@@ -78,12 +76,14 @@ print(df.head())
 | BJP.democrat    | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 | bruce.democrat  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo     |
 | bro.democrat    | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| hello.democrat  | premium   | $118.80   | $118.80       | high           | high   | 5      | namesilo     |
 | bus.democrat    | available | $9.99     | —             | high           | low    | 3      | name.com     |
 | press.democrat  | premium   | $500      | —             | medium         | low    | 5      | name.com     |
 | cod.democrat    | available | $9.99     | —             | high           | low    | 3      | name.com     |
 | young.democrat  | premium   | $242      | $242          | high           | low    | 5      | namesilo     |
 | con.democrat    | available | $9.99     | —             | high           | low    | 3      | name.com     |
 | hawaii.democrat | premium   | $500      | —             | high           | low    | 6      | name.com     |
+| gee.democrat    | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DEMOCRAT One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
