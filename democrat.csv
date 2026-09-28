@@ -4,7 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 39f2c66e-a1e8-40b5-8df1-4ce05686b2e9,studio.democrat,available,7.25,32.99,high,medium,6,namesilo,,,26/09/2026 00:25
 6854d1d9-a061-4949-a821-fb8e0d805f6e,hormonal.democrat,available,5.98,41.48,medium,low,8,namecheap,,,21/08/2026 14:02
 423ace8e-e32f-4317-b0db-7dbc68d41e38,flag.democrat,available,7.25,32.99,high,low,4,namesilo,,,25/09/2026 00:12
-2d6aa8d5-2db7-4117-b171-0c1a35ffd45b,medium.democrat,available,7.25,32.99,high,low,6,namesilo,,,25/09/2026 10:31
+2d6aa8d5-2db7-4117-b171-0c1a35ffd45b,medium.democrat,available,5.38,26.08,high,low,6,spaceship,,,28/09/2026 03:02
 c46258b5-b6a9-4aa0-8535-9eb91551edb8,selenium.democrat,available,7.25,32.99,medium,low,8,namesilo,,,20/09/2026 22:53
 459f2ca4-eb36-4dec-80c7-8f15742cb657,battered.democrat,available,5.98,41.48,medium,low,8,namecheap,,,22/09/2026 18:12
 a732cdb9-5d96-4c6b-97dc-98b081da41ad,benjamin.democrat,available,7.25,32.99,high,low,8,namesilo,,,20/09/2026 12:34
@@ -12,6 +12,7 @@ a732cdb9-5d96-4c6b-97dc-98b081da41ad,benjamin.democrat,available,7.25,32.99,high
 aa4266be-76ce-4229-b201-ec28590b4a23,atticus.democrat,available,7.25,32.99,high,low,7,namesilo,,,21/09/2026 01:46
 2e71fbfc-10c5-48a6-81fc-dbbedd5f8af4,set.democrat,available,5.98,41.48,high,low,3,namecheap,,,22/09/2026 19:35
 14c8cb17-20cf-4db5-9f3a-f2b2cee45fb3,garcia.democrat,available,5.98,41.48,high,low,6,namecheap,,,25/09/2026 20:50
+a8422c21-bbaf-42d7-84a7-1561fbca4c3a,bessie.democrat,available,7.25,32.99,medium,low,6,namesilo,,,28/09/2026 03:55
 38f47f16-ff1e-490a-99a5-e26b436632dc,sucked.democrat,available,7.25,32.99,medium,low,6,namesilo,,,18/09/2026 04:29
 f34026c9-0688-4b55-a250-8a8b92dc0a56,homegrown.democrat,available,5.98,41.48,high,low,9,namecheap,,,21/08/2026 10:59
 4ec1007c-1695-42e4-9f32-f8f902189cc2,longest.democrat,available,9.99,,high,low,7,name.com,,,
@@ -134,7 +135,7 @@ ce38f45f-00be-451a-b601-047d7ec9250e,nervy.democrat,available,5.98,41.48,high,lo
 503139f4-7b6d-4c0d-aac8-2f74335446c9,cheyenne.democrat,available,7.25,32.99,high,low,8,namesilo,,,24/09/2026 12:34
 8212d091-1c48-4b81-a443-d94b13f0cb31,rescued.democrat,available,5.98,41.48,high,low,7,namecheap,,,09/09/2026 11:35
 481be2bd-507f-467d-8703-88e58e308755,nautilus.democrat,available,7.25,32.99,high,low,8,namesilo,,,20/09/2026 04:33
-edceb66e-b8e5-4a73-af18-1af00c0b1b3f,academics.democrat,available,7.25,32.99,high,low,9,namesilo,,,24/09/2026 02:34
+edceb66e-b8e5-4a73-af18-1af00c0b1b3f,academics.democrat,available,7.25,32.99,high,low,9,namesilo,,,28/09/2026 05:28
 a81d194e-0058-4d4a-ae3d-a0ed0fddf39e,charm.democrat,available,5.98,41.48,high,low,5,namecheap,,,19/09/2026 20:23
 67577c37-0547-4a1e-98ae-6ff89727db2d,inexplicit.democrat,available,5.98,41.48,medium,low,10,namecheap,,,21/08/2026 22:39
 31c47785-b56b-470a-9109-1afea30e70da,muffin.democrat,available,9.99,,high,low,6,name.com,,,
@@ -144,6 +145,7 @@ ff08ba7b-06c2-43ab-87e3-a4c7721901bf,bassinet.democrat,available,5.98,41.48,medi
 8cfeeead-5ab1-464c-859e-90e03c603d40,age.democrat,available,7.25,32.99,high,low,3,namesilo,,,19/09/2026 07:13
 89406cc1-a48e-4b54-9c5a-ee118d5a0301,tardy.democrat,available,5.98,41.48,medium,low,5,namecheap,,,09/08/2026 12:42
 1919f5c8-6b48-41cd-a808-11c7133bd7ca,qualification.democrat,available,9.99,,high,low,13,name.com,,,
+e9b38a9a-263a-44cb-9b2b-217bf301f952,wondering.democrat,available,7.25,32.99,high,low,9,namesilo,,,28/09/2026 03:23
 77cfe91b-9799-45f9-b3f5-dc029cadea0f,normality.democrat,available,9.99,,high,low,9,name.com,,,
 a9f7a0de-f895-4338-b33f-9ce2c4d869b5,charabanc.democrat,available,5.98,41.48,medium,low,9,namecheap,,,21/09/2026 05:58
 2451ab07-d7f0-46a3-9134-793ec19412ba,undeniable.democrat,available,5.98,41.48,high,low,10,namecheap,,,12/09/2026 07:15
@@ -176,12 +178,14 @@ a300b6e9-62cb-4187-905f-d7f75a49e0c0,camp.democrat,available,5.98,41.48,high,low
 b6cfdd66-3624-4ce9-922c-dc774012fbbf,chalmers.democrat,available,5.38,26.08,medium,low,8,spaceship,,,27/09/2026 20:38
 bec250a0-3aef-4752-8a43-d2150146731e,diskette.democrat,available,5.98,41.48,high,low,8,namecheap,,,18/08/2026 08:53
 da74cb7d-fede-48cc-ac38-eec81599bc05,repelling.democrat,available,5.98,41.48,medium,low,9,namecheap,,,14/08/2026 10:43
+add77716-3d54-4a7b-9a03-6d82cccb9355,kentucky.democrat,premium,,,high,low,8,,,,28/09/2026 05:17
 70155918-37e4-42aa-993d-8b401dd90704,arda.democrat,available,7.25,32.99,high,low,4,namesilo,,,17/09/2026 10:27
 67b7fce4-7379-49c4-aa17-d4998c155290,intensive.democrat,available,7.25,32.99,high,low,9,namesilo,,,25/09/2026 09:57
 fa11698c-c354-4270-8d1e-ff6813c95020,washer.democrat,available,7.25,32.99,medium,low,6,namesilo,,,21/09/2026 06:54
 d52727c1-7420-44c6-bfaf-c47b2342c24d,crowded.democrat,available,7.25,32.99,high,low,7,namesilo,,,24/09/2026 02:10
 e89fb014-7b18-4d69-9b8b-71248e07bd84,invent.democrat,available,9.99,,high,low,6,name.com,,,
 8c7108b0-58fb-43c7-919e-4e6309fb0ce5,baleful.democrat,available,5.98,41.48,medium,low,7,namecheap,,,08/08/2026 09:39
+12aa7aae-11e7-41ba-9f60-11607566adc3,alessandro.democrat,available,25.2,25.2,medium,low,10,cloudflare,,,28/09/2026 05:03
 94ecc029-2e1d-4dc0-b221-0125f8dc722e,capitate.democrat,available,5.98,41.48,medium,low,8,namecheap,,,11/08/2026 17:57
 f5758da4-c106-4e73-ab66-9fc7b07e86c9,sending.democrat,available,7.25,32.99,high,low,7,namesilo,,,25/09/2026 10:37
 911fc503-1c0d-4935-a8ed-8cb72b79b676,instead.democrat,available,9.99,,high,low,7,name.com,,,
@@ -193,7 +197,7 @@ c69b909a-93f3-406d-9848-527fbddb1c5a,pills.democrat,available,7.25,32.99,medium,
 6c88a191-cf12-4303-83d5-e743faf982a6,ceramic.democrat,available,5.98,41.48,high,low,7,namecheap,,,12/08/2026 00:23
 c62bba90-e5a7-4ad5-9d84-996246ebc7a7,imuran.democrat,available,7.25,32.99,medium,low,6,namesilo,,,21/09/2026 11:01
 433afd64-55ba-484e-bd5a-6589372e9ed0,overeager.democrat,available,5.98,41.48,medium,low,9,namecheap,,,04/09/2026 20:31
-72fd057a-9ad0-42db-855a-a5852cdcbdce,junction.democrat,available,5.98,41.48,high,low,8,namecheap,,,08/09/2026 09:48
+72fd057a-9ad0-42db-855a-a5852cdcbdce,junction.democrat,available,7.25,32.99,high,low,8,namesilo,,,28/09/2026 06:09
 163b8891-3cfd-42c5-babc-ca8b68fc0e0f,ding.democrat,available,9.99,,high,low,4,name.com,,,
 974bf515-a8a9-4ca7-9986-6389f89d1166,fruitless.democrat,available,5.98,41.48,medium,low,9,namecheap,,,10/08/2026 19:39
 44312215-b667-4915-8792-1dafeb2ba868,calorie.democrat,available,7.25,32.99,high,low,7,namesilo,,,24/09/2026 11:50
@@ -237,6 +241,7 @@ d0848ddb-eb36-4dc5-83a4-3a6df24423c8,jamie.democrat,available,5.98,41.48,high,lo
 40f97763-8b37-450c-b7e0-fa77a0caa730,lewd.democrat,available,5.98,41.48,high,low,4,namecheap,,,22/08/2026 20:07
 ab96139e-83a6-413d-9546-824679cc6870,loafer.democrat,available,5.98,41.48,medium,low,6,namecheap,,,14/08/2026 14:12
 0dc4f2f0-3652-4aa8-ae7a-6a540089b2e4,trumpery.democrat,available,5.98,41.48,medium,low,8,namecheap,,,18/08/2026 23:50
+0f1dc1e6-9812-447f-9bfc-3b0a6789db3d,mustard.democrat,available,5.57,26.97,high,low,7,dynadot,,,28/09/2026 06:28
 81e92f50-fa77-4aa8-ad92-74add8e83e4b,douglass.democrat,available,5.98,41.48,high,low,8,namecheap,,,25/09/2026 22:23
 da83f0fc-de9d-4576-aa82-644138323ea0,napped.democrat,available,5.98,41.48,medium,low,6,namecheap,,,18/08/2026 07:44
 ca9994fc-9feb-45cc-ba98-148b60e26a9b,diversion.democrat,available,5.98,41.48,high,low,9,namecheap,,,24/09/2026 23:18
@@ -295,6 +300,7 @@ c733cf83-5226-4be0-9de1-a1841c91b6d8,brisk.democrat,available,5.98,41.48,high,lo
 65f4598f-f469-4909-8bac-5aa6d8480e1c,niches.democrat,available,5.98,41.48,medium,low,6,namecheap,,,20/09/2026 09:56
 b4dff0c4-f44b-41dc-9920-f68322284cc4,kamikaze.democrat,available,9.99,,high,low,8,name.com,,,
 29d5e738-7788-4a39-9198-5102569c6c62,peach.democrat,available,5.98,41.48,high,low,5,namecheap,,,22/08/2026 16:45
+04708779-d51f-4b41-a983-76e3eab3ad73,circuitry.democrat,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 02:48
 43ef4ad0-2a48-42dd-b71f-c7bf9330f90b,thinly.democrat,available,5.98,41.48,medium,low,6,namecheap,,,11/09/2026 13:26
 621f43db-a5ee-4745-b3c0-740a1d3f0cac,polynomials.democrat,available,7.25,32.99,medium,low,11,namesilo,,,27/09/2026 09:22
 3c19902d-4352-4542-9332-ee8b94881d7f,ang.democrat,available,9.99,43.99,high,low,3,name.com,,,17/09/2026 22:42
@@ -336,6 +342,7 @@ be32cb6e-b528-4c8f-ab62-033aa2891ed3,slept.democrat,available,9.99,,medium,low,5
 872c6242-b6bb-46e1-b52f-30514520e355,acrophobia.democrat,available,7.25,32.99,medium,low,10,namesilo,,,17/09/2026 03:53
 91063fc7-ec86-4301-8457-3b091eb87466,flimsy.democrat,available,5.98,41.48,medium,low,6,namecheap,,,18/08/2026 08:15
 899d7559-b782-4ed3-a285-c20d3eedc205,probably.democrat,available,7.25,32.99,high,low,8,namesilo,,,25/09/2026 13:48
+8858c5c9-ffcb-4bbf-959c-572af7ae47f8,swore.democrat,available,25.2,25.2,medium,low,5,cloudflare,,,28/09/2026 04:28
 ad95d84d-b540-4bfe-b8da-7fbc168f1128,sixpenny.democrat,available,5.98,41.48,medium,low,8,namecheap,,,10/09/2026 09:06
 606acb49-d12c-475d-a4d8-3faaaf30ec07,hedged.democrat,available,5.98,41.48,medium,low,6,namecheap,,,21/08/2026 05:50
 595d415b-c059-49d0-8f12-b46f382b1139,stockholm.democrat,available,9.99,,high,low,9,name.com,,,
@@ -367,6 +374,7 @@ dd09f375-9201-4efb-8829-3f5fc1afb91e,madrid.democrat,available,9.99,,high,low,6,
 72fd2693-0bac-406c-8e24-01c89ce0d6bd,felicitous.democrat,available,5.98,41.48,medium,low,10,namecheap,,,18/08/2026 00:51
 358b52d4-2bcd-4e91-8464-18aea231deca,xlii.democrat,available,5.98,41.48,medium,low,4,namecheap,,,
 5bda7884-2b29-4a67-bcd8-e0d523628208,formic.democrat,available,5.98,41.48,medium,low,6,namecheap,,,18/08/2026 12:11
+f435bc02-02f4-42fe-9e5a-83b6ab5a9cc9,alfredo.democrat,available,25.2,25.2,high,low,7,cloudflare,,,28/09/2026 04:35
 2ac8297b-7af6-4370-b238-9f6f1627f5c2,murmuring.democrat,available,5.98,41.48,high,low,9,namecheap,,,03/09/2026 11:06
 10079533-20d5-403b-a436-2c3b7aca3330,metrical.democrat,available,5.98,41.48,medium,low,8,namecheap,,,24/08/2026 22:08
 c884c36d-8afa-492d-8cd3-706772dfdf32,histrionic.democrat,available,5.98,41.48,medium,low,10,namecheap,,,21/08/2026 09:57
@@ -394,6 +402,7 @@ a03e3292-090d-4ccf-9192-f8c123345373,special.democrat,available,7.25,32.99,high,
 e9586b7a-7b98-441b-8507-fb1daff1d5b5,maritime.democrat,available,5.98,41.48,high,low,8,namecheap,,,24/08/2026 16:00
 c557793e-a5de-43d5-83ac-2660442cb982,adit.democrat,available,7.25,32.99,medium,low,4,namesilo,,,17/09/2026 08:21
 46b878cc-0e47-4fd8-a857-ea76ed2bfaa0,carroty.democrat,available,5.98,41.48,medium,low,7,namecheap,,,11/08/2026 19:48
+7e87e795-a658-46ca-bc63-f31ac43b9466,zagreb.democrat,available,5.38,26.08,high,low,6,spaceship,,,28/09/2026 06:54
 1b50e1e3-6ad1-4f6f-88b2-45a9f9bfa85b,unlimited.democrat,available,7.25,32.99,high,low,9,namesilo,,,25/09/2026 09:27
 30f81a45-35c7-4657-94b0-f684fb338486,organizer.democrat,available,7.25,32.99,high,low,9,namesilo,,,20/09/2026 08:45
 ebbbe751-8fc7-4db8-90a1-9597d4126d0a,misfortune.democrat,available,5.98,41.48,medium,low,10,namecheap,,,21/09/2026 16:43
@@ -414,6 +423,7 @@ b24208a9-4a64-4c45-ad75-a1ede160dfe0,flightless.democrat,available,5.98,41.48,me
 73fbf2f5-c54b-4563-a435-200666ac6cb9,scads.democrat,available,5.98,41.48,high,low,5,namecheap,,,14/09/2026 23:36
 0f01c7ff-67d4-4e28-b971-23ed08190bdd,abetter.democrat,available,7.25,32.99,medium,low,7,namesilo,,,16/09/2026 15:19
 90c1e75d-4f95-4f69-91b1-1fec0905cdbc,cue.democrat,available,9.99,,high,low,3,name.com,,,
+777e17e2-2bdd-4b61-b48e-c30357fa6c8b,pigeon.democrat,available,5.38,26.08,high,low,6,spaceship,,,28/09/2026 02:55
 f90475c4-76cf-42cd-937c-c5c72b740865,metabolic.democrat,available,5.98,41.48,high,low,9,namecheap,,,24/08/2026 21:26
 a776358b-38e1-487a-9c7a-5683e9c310f9,snafu.democrat,available,5.98,41.48,medium,low,5,namecheap,,,18/08/2026 17:20
 26a195cc-5bb7-44ae-b14e-61730ae1af3a,horne.democrat,available,7.25,32.99,high,low,5,namesilo,,,27/09/2026 14:08
@@ -427,7 +437,7 @@ fb718773-be06-4e92-8266-a21c0cc5c873,digitate.democrat,available,5.98,41.48,medi
 e78f5735-8356-4848-9a30-792b1bd10a03,pummel.democrat,available,7.25,32.99,medium,low,6,namesilo,,,23/09/2026 13:52
 38f2c537-fee9-44ff-95ba-03227fca8336,razorbill.democrat,available,7.25,32.99,medium,low,9,namesilo,,,18/09/2026 03:39
 fff5cd64-063e-42a4-9a20-dfe61e8cb593,midwife.democrat,available,5.98,41.48,high,low,7,namecheap,,,16/09/2026 23:05
-0060a4b1-e023-4bd6-96a7-f2339b23b7f6,renovation.democrat,available,7.25,32.99,high,low,10,namesilo,,,23/09/2026 02:47
+0060a4b1-e023-4bd6-96a7-f2339b23b7f6,renovation.democrat,available,5.38,26.08,high,low,10,spaceship,,,28/09/2026 03:48
 7accdf63-ff9b-4cc7-a483-0269ad53025d,celebrating.democrat,available,5.98,41.48,high,low,11,namecheap,,,27/09/2026 06:50
 c6a755f4-9085-4ea0-b16a-e990c0a784eb,deeds.democrat,available,5.38,26.08,high,low,5,spaceship,,,27/09/2026 12:56
 409145ed-788e-4e9b-a1c1-8d8887c333ea,readily.democrat,available,5.98,41.48,medium,low,7,namecheap,,,15/09/2026 21:42
@@ -461,6 +471,7 @@ e2201ede-c18a-4182-bd93-896a30e3e67b,bittie.democrat,available,5.98,41.48,medium
 095b881d-766e-4b8f-ab09-b0b4c68f30a9,sheila.democrat,available,25.2,25.2,high,low,6,cloudflare,,,27/09/2026 17:05
 7216dbe8-a9c8-445f-9016-dfd59b5a6ca9,promising.democrat,available,7.25,32.99,high,low,9,namesilo,,,27/09/2026 07:28
 241f74f7-10b0-4409-b938-49e303b9499a,llp.democrat,available,9.99,,high,low,3,name.com,,,
+c82c3127-1364-4405-bd3e-a6a97ac88ee6,schuyler.democrat,available,5.38,26.08,medium,low,8,spaceship,,,28/09/2026 04:05
 7bbdc3b7-b2e0-413e-8e71-83b6df489928,embarrassed.democrat,available,7.25,32.99,medium,low,11,namesilo,,,27/09/2026 06:32
 08a3df1e-134e-4659-99e1-c259008c409d,soothes.democrat,available,7.25,32.99,medium,low,7,namesilo,,,20/09/2026 05:20
 e698dbf9-1256-41dd-ba93-5d9365847912,starkers.democrat,available,5.98,41.48,low,low,8,namecheap,,,10/09/2026 18:51
@@ -472,10 +483,12 @@ b26d9316-5b2e-4075-b871-fad71591ebe3,ecumenical.democrat,available,5.98,41.48,hi
 40cad65a-ab25-447a-877b-91e62a884484,consumer.democrat,available,9.99,,high,low,8,name.com,,,
 86f3ebef-c03a-410f-9732-af3d13516ad9,chick.democrat,available,7.25,32.99,high,low,5,namesilo,,,24/09/2026 14:27
 56a2b1c1-58e0-46c5-867b-0e8f14e94f0d,nuptial.democrat,available,5.98,41.48,high,low,7,namecheap,,,11/08/2026 03:55
+6d14256c-a93b-4072-b26c-799e94afb927,otto.democrat,available,7.25,32.99,high,medium,4,namesilo,,,28/09/2026 04:33
 d2391502-0300-4411-b5da-0ec710888879,backblast.democrat,available,5.98,41.48,medium,low,9,namecheap,,,21/09/2026 14:26
 01a30db5-dbae-4968-9f44-10acd09b8045,tickle.democrat,available,5.98,41.48,high,low,6,namecheap,,,11/09/2026 15:31
 317d153c-24c3-4946-8145-950887e0b8b8,grandfather.democrat,available,9.99,,high,low,11,name.com,,,
 85dde5ab-e296-48e8-8970-61433023bfde,lust.democrat,available,9.99,,high,low,4,name.com,,,
+b6defc43-dbaf-4145-9fdd-6c5dbe2f8a71,baxter.democrat,available,5.38,26.08,high,low,6,spaceship,,,28/09/2026 03:39
 2ce9c928-f99f-45e1-b08e-4f93d508aee9,caisson.democrat,available,7.25,32.99,high,low,7,namesilo,,,18/09/2026 22:17
 91401d16-3f69-4f48-b5b6-3ee8e1914fca,aground.democrat,available,5.98,41.48,medium,low,7,namecheap,,,
 97abc289-2910-487e-928d-17f7ab56cf2c,andorran.democrat,available,5.98,41.48,medium,low,8,namecheap,,,
@@ -559,6 +572,7 @@ eb87846f-a3b7-48e0-b357-4912b654dc89,conceit.democrat,available,7.25,32.99,mediu
 7eb5ea2f-3991-43f4-afc7-216c6f3d4984,agnosia.democrat,available,7.25,32.99,medium,low,7,namesilo,,,17/09/2026 18:46
 fa421068-822d-4254-bf02-1a764fa099ec,dealer.democrat,available,7.25,32.99,high,low,6,namesilo,,,22/09/2026 05:35
 3b320c08-a561-4695-bee7-76791de76628,asama.democrat,available,7.25,32.99,medium,low,5,namesilo,,,20/09/2026 12:47
+64ac793f-7acf-414d-8dc2-2692e2cdd146,mississippi.democrat,premium,414.2,414.2,high,low,11,spaceship,,,28/09/2026 03:26
 032f0643-703f-4b7d-9fe6-fcec71daaa76,swelled.democrat,available,5.98,41.48,medium,low,7,namecheap,,,11/09/2026 05:38
 b9f33ecf-1f1f-45ae-aa4e-45cc5756a981,decide.democrat,available,9.99,,high,low,6,name.com,,,
 6c6f2473-5d71-4b71-bc5b-dd5cf89c4de2,astarte.democrat,available,5.98,41.48,medium,low,7,namecheap,,,20/09/2026 14:01
@@ -585,6 +599,7 @@ c4371600-94c2-4a9a-96dd-03659ac6d850,wesleyan.democrat,available,5.98,41.48,high
 642e832c-37b5-4b97-95ea-8e7003834a67,luanda.democrat,available,7.25,32.99,high,low,6,namesilo,,,19/09/2026 06:58
 d14c80cc-c00f-4d89-8738-2e0ca2c594f2,shrewdly.democrat,available,5.98,41.48,medium,low,8,namecheap,,,13/09/2026 22:22
 1a81958e-ccd0-4634-8c26-2b33b580a909,case.democrat,available,9.99,,high,low,4,name.com,,,
+39e9de41-a0ad-4212-9532-6ed0c653aac7,gorbachev.democrat,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 05:51
 8afc98f3-7100-4bbb-b368-106b74dab40e,drubbing.democrat,available,5.98,41.48,medium,low,8,namecheap,,,13/09/2026 07:58
 c32408ab-e2bd-4949-bff5-62c9d419d459,view.democrat,available,9.99,,high,low,4,name.com,,,
 19d45f62-4f4b-4178-b988-6dd5597b5c0d,angiology.democrat,available,5.98,41.48,medium,low,9,namecheap,,,19/09/2026 06:13
@@ -602,6 +617,7 @@ a11a9a76-f402-4e77-b81f-7e847a11cdcb,curvey.democrat,available,5.98,41.48,medium
 216a8e9f-707b-48b1-a076-4d4c39760a1a,digestible.democrat,available,5.98,41.48,medium,low,10,namecheap,,,14/08/2026 07:14
 41965632-7564-4069-a60f-bd8c6168e0e7,unprepared.democrat,available,5.98,41.48,medium,low,10,namecheap,,,12/09/2026 17:22
 1ec8fd86-8977-4b19-8d5c-f9ae4493e549,unpassable.democrat,available,5.98,41.48,medium,low,10,namecheap,,,21/08/2026 21:49
+0c226e7f-a1ae-4ae1-aa3a-85c323a69bf3,igor.democrat,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 03:33
 402a3cd6-0c7f-4087-a4b4-1b847132727b,audio.democrat,available,9.99,,high,low,5,name.com,,,
 37ad3506-730b-41b2-9408-d816600e8934,carnegie.democrat,available,7.25,32.99,high,low,8,namesilo,,,19/09/2026 04:42
 02addd15-0dac-4a7f-b28f-4f8960caaa36,antinomy.democrat,available,7.25,32.99,medium,low,8,namesilo,,,19/09/2026 14:49
@@ -610,7 +626,7 @@ bcdf4ffd-ceb9-4092-b4fa-3364549988b6,essex.democrat,available,7.25,32.99,high,lo
 270c802e-9ce3-4424-a013-a0a6118792c9,similarly.democrat,available,9.99,,medium,low,9,name.com,,,
 1098f107-07d6-436b-ac60-760ed8a3da7a,woodbine.democrat,available,5.98,41.48,medium,low,8,namecheap,,,18/09/2026 20:11
 22a11c7b-5416-4ad3-a384-19de1d220d54,dogsit.democrat,available,9.99,,high,low,6,name.com,,,
-8d8c2f6c-1e68-495b-8789-99ef0651872a,innovation.democrat,available,7.25,32.99,high,medium,10,namesilo,,,23/09/2026 02:50
+8d8c2f6c-1e68-495b-8789-99ef0651872a,innovation.democrat,available,5.38,26.08,high,medium,10,spaceship,,,28/09/2026 03:06
 cd993b94-b64c-4d8e-b65a-06d6a5d9cff1,mls.democrat,available,5.98,41.48,high,low,3,namecheap,,,28/09/2026 02:21
 013a1f95-d53a-4d98-9564-a6c1d884c873,tube.democrat,available,7.25,32.99,high,low,4,namesilo,,,25/09/2026 22:34
 91367e71-7fe9-4ca4-b8b7-15239a1b4c84,leon.democrat,available,7.25,32.99,high,medium,4,namesilo,,,27/09/2026 04:37
@@ -672,10 +688,12 @@ ca5c53f0-769f-4d14-8401-b41cbc624eb3,manually.democrat,available,5.98,41.48,medi
 25981c3a-9d34-44f8-af3d-c642a9c56536,roasted.democrat,available,5.38,26.08,high,low,7,spaceship,,,27/09/2026 15:50
 10b4110a-cfc0-4d8d-aaf7-b88d062b683c,romeo.democrat,available,7.25,32.99,high,low,5,namesilo,,,27/09/2026 05:10
 9cbd967c-26b7-4b2e-9827-65beba4b8576,ably.democrat,available,5.98,41.48,medium,low,4,namecheap,,,13/09/2026 16:20
+e495800b-4201-40ca-9f4d-6a580e586919,oaxaca.democrat,available,7.25,32.99,high,low,6,namesilo,,,28/09/2026 06:30
 a6a3a048-0c96-4430-b82f-b5e84bcbc219,language.democrat,available,7.25,32.99,high,low,8,namesilo,,,25/09/2026 15:54
 a3a389af-5400-41e6-b38e-149a668c87b9,barn.democrat,available,9.99,,high,low,4,name.com,,,
 b5281bfe-b61b-4407-a10c-bc8b9bf22f2b,mexicans.democrat,available,5.98,41.48,medium,low,8,namecheap,,,18/09/2026 23:08
 d648c845-82cf-47a7-9ed2-fbac0124ae6b,cannes.democrat,available,7.25,32.99,high,low,6,namesilo,,,24/09/2026 12:04
+dc90abf8-9f93-41d3-8b65-5be332bb84d4,stadium.democrat,available,7.25,32.99,high,low,7,namesilo,,,28/09/2026 03:07
 a69b4e4a-b6ba-4eca-82b5-91d9f105a2fd,ahem.democrat,available,5.98,41.48,high,low,4,namecheap,,,17/09/2026 20:20
 d6a60a2c-1f3e-424a-8e30-73d159cc3d2a,springy.democrat,available,5.98,41.48,high,low,7,namecheap,,,10/08/2026 21:49
 261eaf0b-f018-449c-adfe-9ff877254ca1,aftertaste.democrat,available,5.98,41.48,high,low,10,namecheap,,,17/09/2026 15:52
@@ -690,6 +708,7 @@ bf2af96d-bc51-4d2b-9a8d-811dc2c1db3d,cxxv.democrat,available,5.98,41.48,medium,l
 a0bea000-13ca-484b-b712-c8d9e74b3fb0,stupe.democrat,available,5.98,41.48,medium,low,5,namecheap,,,10/09/2026 23:06
 c272edcb-1b8d-47a0-99d7-29b1e5f5b8b3,getaways.democrat,available,5.98,41.48,medium,low,8,namecheap,,,20/09/2026 18:37
 9407839d-21ae-4342-9120-53daf1ff22ef,hittite.democrat,available,5.98,41.48,medium,low,7,namecheap,,,21/08/2026 10:00
+d695ddcf-498f-4b40-b304-2abc70b83ff0,miracles.democrat,available,5.38,26.08,high,low,8,spaceship,,,28/09/2026 05:03
 010668a5-1ffb-4a51-8769-4886f8cc0131,siberian.democrat,available,5.38,26.08,high,low,8,spaceship,,,27/09/2026 21:41
 07f50c1e-aef6-4f39-b441-0d28be151b48,hellish.democrat,available,5.98,41.48,medium,low,7,namecheap,,,09/08/2026 04:59
 d8909241-efd7-4260-ba16-0febc3e8c42a,xlv.democrat,available,5.98,41.48,medium,low,3,namecheap,,,
@@ -762,7 +781,9 @@ eddf0314-ce2d-4b6d-a413-88b7486c088c,versus.democrat,available,5.38,26.08,high,l
 eda0768b-f97d-4fa7-b933-f9a6365413ee,winds.democrat,available,5.98,41.48,medium,low,5,namecheap,,,27/09/2026 22:44
 348fd2a5-5218-4273-ba53-f574f13b6cd2,phlegmatic.democrat,available,5.98,41.48,medium,low,10,namecheap,,,08/09/2026 18:53
 0d7b805d-6c5a-492d-94b8-22e61695e8c5,trieste.democrat,available,25.2,25.2,medium,low,7,cloudflare,,,27/09/2026 18:38
+0c020ee0-2e9a-4a24-ac09-61fab007c4da,rio.democrat,available,5.98,41.48,high,low,3,namecheap,,,28/09/2026 03:02
 8003f1ab-edc7-4a21-ac0a-42d9be8165b6,byzant.democrat,available,5.98,41.48,medium,low,6,namecheap,,,23/09/2026 12:17
+535343d8-d47e-4815-8bd2-467d9a412b32,represents.democrat,available,5.38,26.08,high,low,10,spaceship,,,28/09/2026 05:02
 0271fe82-40c6-47db-86c6-55980dfbabd2,oxidative.democrat,available,5.98,41.48,medium,low,9,namecheap,,,04/09/2026 22:23
 78f80a46-5647-48b5-ac90-9b7e62af3280,shambles.democrat,available,7.25,32.99,medium,low,8,namesilo,,,16/09/2026 14:17
 11425bc5-302a-478b-9463-18a0ca28ab23,atrovent.democrat,available,7.25,32.99,medium,low,8,namesilo,,,21/09/2026 01:03
@@ -801,9 +822,11 @@ c9db7843-e04f-4125-b382-e0615866fe15,fascinating.democrat,available,9.99,,high,l
 e2c9fca1-202e-46aa-b0a6-3cb947a95ecd,hiatus.democrat,available,7.25,32.99,high,low,6,namesilo,,,16/09/2026 14:09
 69c8e592-b5ce-4c07-af46-45890dfd2fcc,dextrous.democrat,available,5.98,41.48,high,low,8,namecheap,,,13/08/2026 23:53
 8a31f9f5-71c6-4703-8578-86c8eec70c1e,odd.democrat,available,5.98,41.48,high,low,3,namecheap,,,24/09/2026 03:59
+6a56133c-9712-42d8-aff8-f97ef88f5c64,unnecessary.democrat,available,7.25,32.99,high,low,11,namesilo,,,28/09/2026 03:22
 27e73cdc-2b90-49e3-b31b-cf4eef482f3e,catoptric.democrat,available,5.98,41.48,medium,low,9,namecheap,,,11/08/2026 22:12
 b699232f-c5fb-4e97-83a8-65eaf14c9389,barbarous.democrat,available,5.98,41.48,medium,low,9,namecheap,,,08/08/2026 15:40
 c5710bdd-16f3-4881-9bdd-3eb098f4963f,nina.democrat,available,7.25,32.99,high,low,4,namesilo,,,25/09/2026 09:36
+7bc5910e-e3fc-411f-bc3a-189530c4d679,connecticut.democrat,premium,218.8,437.19,high,low,11,porkbun,,,28/09/2026 03:48
 da5f2005-a259-4802-ad8b-49388961832f,eat.democrat,available,9.99,,high,low,3,name.com,,,
 4e90365e-82fc-4dd9-a545-03fe00be4216,voluminous.democrat,available,5.98,41.48,high,low,10,namecheap,,,13/08/2026 00:30
 8c0bba26-a3e6-427b-9ff7-1dd3aaaccb83,buckshot.democrat,available,5.98,41.48,high,low,8,namecheap,,,23/09/2026 20:24
@@ -861,7 +884,7 @@ c8fece3f-9f1f-4071-be56-9dade712c9c1,horrific.democrat,available,5.98,41.48,medi
 53beddab-1e10-437c-aa7f-bc2c4fc80c89,nance.democrat,available,5.98,41.48,medium,low,5,namecheap,,,09/09/2026 08:05
 84334670-389f-4fc0-ab6d-cd488f0207fb,assail.democrat,available,7.25,32.99,medium,low,6,namesilo,,,20/09/2026 15:49
 c562ff91-720e-41d0-acfd-a960060ca65a,covid.democrat,available,9.99,,high,low,5,name.com,,,
-d729aadd-c27e-4fc0-8ec7-044c5748d9d9,operation.democrat,available,7.25,32.99,high,low,9,namesilo,,,25/09/2026 04:49
+d729aadd-c27e-4fc0-8ec7-044c5748d9d9,operation.democrat,available,5.38,26.08,high,low,9,spaceship,,,28/09/2026 02:52
 a6345543-06a1-4dff-bab5-ca1626d7b79b,neck.democrat,available,9.99,,high,low,4,name.com,,,
 8657bce3-dd35-4459-b390-52e016e487e2,quizzes.democrat,available,5.98,41.48,medium,low,7,namecheap,,,18/09/2026 17:07
 d8f92994-e4f3-4113-a149-9377a5755a3d,minimum.democrat,available,5.98,41.48,high,low,7,namecheap,,,25/09/2026 20:24
@@ -870,6 +893,7 @@ b4d3603b-ee5b-4e8f-85d4-d22639665e6e,brummagem.democrat,available,5.98,41.48,med
 f6c56510-e11d-41c2-923b-410ee90a4c33,delivered.democrat,available,5.98,41.48,medium,low,9,namecheap,,,25/09/2026 18:04
 bbafd6a2-fef0-4467-bcb5-95ba6aa46c31,virtually.democrat,available,9.99,,high,low,9,name.com,,,
 b89baf35-81c3-49a0-baac-92dc81f24d1b,polyester.democrat,available,9.99,,high,low,9,name.com,,,
+f8d62afd-c499-458b-8063-b2d43a55a8be,scouts.democrat,available,7.25,32.99,high,low,6,namesilo,,,28/09/2026 04:05
 9073a371-a075-4367-b263-e74dfe69d7eb,elevation.democrat,available,5.98,41.48,high,low,9,namecheap,,,24/08/2026 20:49
 97c436e4-d472-4eef-9892-a0dd2504a034,gainly.democrat,available,5.98,41.48,medium,low,6,namecheap,,,18/08/2026 19:33
 3769a6d8-9d21-43c9-96fb-6dfde44810c6,hop.democrat,available,9.99,43.99,high,low,3,name.com,,,25/09/2026 07:30
@@ -878,6 +902,7 @@ b89baf35-81c3-49a0-baac-92dc81f24d1b,polyester.democrat,available,9.99,,high,low
 8eda25e4-7206-4e1a-8191-0cadb13e5f4a,notify.democrat,available,9.99,,high,low,6,name.com,,,
 12c3cd1d-681a-4405-9cec-ff80a7df80b3,vatic.democrat,available,5.98,41.48,low,low,5,namecheap,,,14/08/2026 13:52
 3d5f27eb-2d2e-4937-b78a-b6d1a2e64688,opts.democrat,available,7.25,32.99,medium,low,4,namesilo,,,18/09/2026 13:57
+1916c70f-1ff8-419e-9192-bde2a7095ffc,virgil.democrat,available,5.38,26.08,high,low,6,spaceship,,,28/09/2026 02:58
 22cc3b77-ecbd-49e1-95a8-25a359f70b1f,initiative.democrat,available,7.25,32.99,high,low,10,namesilo,,,19/09/2026 04:32
 7a656ab8-d652-4750-9eaf-58a77704030c,bohemian.democrat,available,5.98,41.48,high,low,8,namecheap,,,10/08/2026 17:19
 fd2452da-19e2-4cf8-a896-ca14eba7ba89,boast.democrat,available,5.98,41.48,high,low,5,namecheap,,,11/08/2026 01:02
@@ -896,7 +921,7 @@ ff91a9dd-03d6-4b45-86d6-2cdeb1ffc726,salty.democrat,available,7.25,32.99,high,lo
 d08dbd21-d8b3-4a1b-b16b-a3a10643887f,giving.democrat,premium,250,250,high,low,6,name.com,,,09/08/2026 20:55
 c346acd6-275d-4a7a-839a-e58174e3814a,tightly.democrat,available,9.99,43.99,medium,low,7,name.com,,,16/09/2026 09:06
 8a1df5bf-3760-4eef-a3f2-83c18b0b5f09,boot.democrat,available,9.99,,high,low,4,name.com,,,
-2d88fa2d-3178-4ff3-b956-5f48d22a7a43,simulated.democrat,available,5.98,41.48,high,low,9,namecheap,,,18/08/2026 00:16
+2d88fa2d-3178-4ff3-b956-5f48d22a7a43,simulated.democrat,available,7.25,32.99,high,low,9,namesilo,,,28/09/2026 03:46
 e5c63ff2-304a-44bd-8d91-be2133cd8415,grains.democrat,available,9.99,,high,low,6,name.com,,,
 61ca0361-0a0c-493f-8830-9e5a2eca8934,armed.democrat,available,7.25,32.99,high,low,5,namesilo,,,22/09/2026 07:55
 9212219d-2e73-435f-918b-cf3649c21c65,fagot.democrat,available,5.98,41.48,medium,low,5,namecheap,,,09/09/2026 07:59
@@ -915,7 +940,9 @@ ae3d6a62-50b7-44db-8d41-5374e8fdfcb0,put.democrat,available,5.98,41.48,high,low,
 eb35a6b8-f993-46ca-ae92-1dba06583177,diana.democrat,available,7.25,32.99,high,low,5,namesilo,,,25/09/2026 22:22
 a6408cd6-0024-423d-9f4a-bd614d600c58,faithful.democrat,available,7.25,32.99,high,low,8,namesilo,,,24/09/2026 16:23
 50436882-1b12-46b9-bb17-43b92ec328c0,penning.democrat,available,7.25,32.99,medium,low,7,namesilo,,,21/09/2026 05:27
+ec656eda-ec38-4b9e-bfe8-a1488c7495ba,manipulate.democrat,available,25.2,25.2,high,low,10,cloudflare,,,28/09/2026 05:48
 1b2c0557-a9fb-4b75-9a3b-acbb29c28043,secrecy.democrat,available,7.25,32.99,high,low,7,namesilo,,,24/09/2026 17:03
+da4a689c-19f3-4cd4-8e77-2263a9c9f4a7,foam.democrat,available,5.38,26.08,high,low,4,spaceship,,,28/09/2026 05:46
 5e61c322-ac89-4419-90d6-a9d316617932,blaster.democrat,available,7.25,32.99,high,low,7,namesilo,,,24/09/2026 04:22
 3745b662-d2a0-4268-ae73-ab72e55b1c8a,satyrical.democrat,available,5.98,41.48,medium,low,9,namecheap,,,09/09/2026 21:57
 73db58c0-2480-4dcb-8f2c-500325a0e931,amniote.democrat,available,5.98,41.48,medium,low,7,namecheap,,,18/09/2026 22:28
@@ -961,6 +988,7 @@ e0243377-0ce8-44d0-9564-93b3f98d98e2,replete.democrat,available,5.98,41.48,high,
 6224c0e2-2ad3-4ae6-b982-f5a3d2e0a2cf,objects.democrat,available,9.99,,medium,low,7,name.com,,,
 55ebd41a-c508-4336-814a-8b335cad6da8,coffeeman.democrat,available,9.99,,high,low,9,name.com,,,
 dbaf1298-0bac-4c43-a60a-f706ff044836,shagged.democrat,available,5.98,41.48,medium,low,7,namecheap,,,10/09/2026 05:30
+c0d363cc-f12d-4396-ad51-9d67692af247,rot.democrat,available,5.38,26.08,high,low,3,spaceship,,,28/09/2026 05:21
 3dee62e0-cba8-49cc-a50e-f13526f76309,lowered.democrat,available,7.25,32.99,medium,low,7,namesilo,,,25/09/2026 15:26
 a2020fac-dcfa-45d0-814a-6c88928269de,ready.democrat,available,5.98,41.48,high,low,5,namecheap,,,27/09/2026 10:01
 67550096-d26e-415c-a2a6-bdb3841e30b1,situation.democrat,available,9.99,,high,low,9,name.com,,,
@@ -971,31 +999,3 @@ bddb6700-6607-45c3-a79c-07cdaa29e3b9,aragonite.democrat,available,7.25,32.99,med
 a48ac52b-c8bf-4ce9-9d51-8c1d793bad16,unconfused.democrat,available,5.98,41.48,medium,low,10,namecheap,,,12/09/2026 01:27
 9a442a57-6f29-4653-843b-8825c76f4afc,sat.democrat,available,9.99,,high,low,3,name.com,,,
 4b68eb36-f3ff-4ab9-acf2-e3bcdd7156d7,humane.democrat,available,7.25,32.99,high,low,6,namesilo,,,25/09/2026 06:31
-8321774f-67f9-4c82-a02e-0d8b77c7b24d,dickey.democrat,available,5.98,41.48,medium,low,6,namecheap,,,14/08/2026 06:29
-e7b102b7-02b5-47d1-b10b-6a0043e00114,checklist.democrat,available,9.99,,high,low,9,name.com,,,
-8010bbd1-a97b-4d11-983f-195dbd49cbc3,spending.democrat,available,7.25,32.99,high,low,8,namesilo,,,27/09/2026 03:51
-b35eaeb0-b929-413f-b34d-e1e1fa28d7b5,managers.democrat,available,7.25,32.99,medium,low,8,namesilo,,,20/09/2026 10:01
-444f5c9f-8268-443c-ad5d-b92c1c585bb3,zonary.democrat,available,5.98,41.48,medium,low,6,namecheap,,,13/09/2026 15:31
-60ff9938-2f20-4a60-af34-64b17a3a1fba,burlington.democrat,available,7.25,32.99,high,low,10,namesilo,,,25/09/2026 03:41
-5537d1b2-ba05-4981-af9c-6f00cd967679,sleepless.democrat,available,5.98,41.48,medium,low,9,namecheap,,,22/08/2026 07:24
-edbebfbd-9232-45e6-ae2f-b32df2b8b551,varying.democrat,available,5.98,41.48,high,low,7,namecheap,,,13/09/2026 01:31
-325b68fe-d928-42cb-8c96-1e125e58c64e,harassment.democrat,available,7.25,32.99,medium,low,10,namesilo,,,27/09/2026 13:56
-0180fe40-f803-40f6-87f8-ffea2cb517bf,knightly.democrat,available,5.98,41.48,high,low,8,namecheap,,,12/08/2026 06:11
-78b3ffb6-27e8-4c3c-a9a0-7e35d4f1b4fa,nuclear.democrat,available,7.25,32.99,high,low,7,namesilo,,,25/09/2026 23:22
-9e7675ca-6be7-443a-b3cc-6f572b5ce716,coastal.democrat,available,5.98,41.48,high,low,7,namecheap,,,12/08/2026 14:10
-0bab4fe3-2585-4f9a-b6e0-cdce618c6384,unshaded.democrat,available,5.98,41.48,medium,low,8,namecheap,,,12/09/2026 19:27
-d293d52c-9a18-46a5-9181-7546385e5290,armpit.democrat,available,7.25,32.99,high,low,6,namesilo,,,20/09/2026 07:34
-8ab07f6b-a236-428f-81be-9aee5a3c7613,tacit.democrat,available,5.98,41.48,high,low,5,namecheap,,,11/09/2026 06:56
-95eb2016-188a-4d3b-b927-b18187507926,messed.democrat,available,5.98,41.48,medium,low,6,namecheap,,,17/09/2026 16:53
-f5a07696-4ecf-4b6e-81f8-e9c3c2314928,upstart.democrat,available,5.98,41.48,high,low,7,namecheap,,,25/09/2026 23:17
-a62da678-7ada-406b-9667-611b9ddc42b2,fulgid.democrat,available,5.98,41.48,medium,low,6,namecheap,,,
-c7fc6ddc-0cae-42af-b918-d24a7390449d,athos.democrat,available,5.98,41.48,medium,low,5,namecheap,,,20/09/2026 21:17
-16973200-386f-4a11-8705-382d0661b2cc,conceptual.democrat,available,5.98,41.48,high,low,10,namecheap,,,12/08/2026 20:05
-9c9dacf5-c6c4-445c-bf98-5cc393fd8914,praising.democrat,available,5.98,41.48,high,low,8,namecheap,,,22/08/2026 20:53
-73e6a8fc-72f9-435e-a769-9e2e8b17903c,adjacent.democrat,available,5.98,41.48,high,low,8,namecheap,,,
-4de6e7e8-bd67-4ef0-8bab-8f84ed08a027,claims.democrat,available,5.98,41.48,high,low,6,namecheap,,,25/09/2026 20:29
-f3045dde-b62b-4abe-bb97-06f783baa410,thornless.democrat,available,5.98,41.48,medium,low,9,namecheap,,,11/09/2026 14:08
-2badf4ff-cf87-47c3-96ce-0292e1ec9b74,airplane.democrat,available,5.98,41.48,high,low,8,namecheap,,,27/09/2026 04:01
-6733b4f1-088a-4b47-981d-d71967f570f4,sitting.democrat,available,5.38,26.08,high,low,7,spaceship,,,27/09/2026 19:14
-26b76321-2133-4e61-aa91-0ab03d831063,contraband.democrat,available,5.98,41.48,high,low,10,namecheap,,,22/09/2026 21:25
-54e5d542-4e1a-4c20-889a-2ad768fd46b7,approached.democrat,available,5.98,41.48,medium,low,10,namecheap,,,17/09/2026 16:13
